@@ -1,6 +1,8 @@
 body {
     margin: 0;
     background-image: url(../img/DJI_0822.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 .main {
@@ -12,15 +14,32 @@ body {
 }
 
 .title {
-    border: solid 1px black;
+    font-size: 35px;
+    display: block;
+    margin: 15px 0;
+    font-weight: bold;
 }
 
 .title img {
-    height: 50px;
+    height: 40px;
     vertical-align: middle;
 }
 
 .bottom-image {
     height: 60px;
     max-width: 250px;
+}
+
+ul {
+    display: block;
+    align-items: center;
+}
+
+.pakiety {
+    text-align: left;
+}
+
+.reklamy img {
+    width: 50%;
+    height: 150px;
 }
