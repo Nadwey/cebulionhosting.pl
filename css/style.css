@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-image: url(../img/DJI_0822.jpg);
+}
+
+main {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    background-color: white;
+}
+
+.title {
+    border: solid 1px black;
+}
+
+.title img {
+    height: 50px;
+    vertical-align: middle;
+}
+
+.bottom-image {
+    height: 80px;
+}
