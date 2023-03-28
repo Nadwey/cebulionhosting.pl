@@ -18,7 +18,7 @@ O nas:
     <li>Dysk 100MB</li>
     <li>Łącze 2Mbps (512MiB transferu)</li>
     <li>
-        <i><b>Tylko 39.90zł/mies. (+ 23% VAT)</b></i>
+        <i><b>Tylko 39.99zł/mies. (+ 23% VAT)</b></i>
     </li>
     <li><a href="./zamow.php">ZAMÓW</a></li>
 </ul>
@@ -30,7 +30,7 @@ O nas:
     <li>Dysk 1.2GB</li>
     <li>Gwarantowane Łącze 10Mbps (20GiB transferu)</li>
     <li>
-        <i><b>Tylko 179.90zł/mies. (+ 23% VAT)</b></i>
+        <i><b>Tylko 179.99zł/mies. (+ 23% VAT)</b></i>
     </li>
     <li><a href="./zamow.php">ZAMÓW</a></li>
 </ul>
