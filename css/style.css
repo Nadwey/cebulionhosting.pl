@@ -43,3 +43,8 @@ ul {
     width: 50%;
     height: 150px;
 }
+
+.funkcje img {
+    width: 50%;
+    max-height: 150px;
+}

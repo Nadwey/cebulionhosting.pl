@@ -34,6 +34,11 @@ O nas:
     </li>
     <li><a href="./zamow.php">ZAMÓW</a></li>
 </ul>
+<ul>
+    <li>Nowość!</li>
+    <li>Strony WWW!</li>
+    <li><a href="./strony-www.php">ZAMÓW</a></li>
+</ul>
 </div>
 <br />
 <br />
