@@ -48,3 +48,15 @@ ul {
     width: 50%;
     max-height: 150px;
 }
+
+.resizing {
+    animation-name: resizing;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes resizing {
+    0%   {transform: scaleX(1.0);}
+    50%  {transform: scaleX(0.0);}
+    100% {transform: scaleX(1.0);}
+}

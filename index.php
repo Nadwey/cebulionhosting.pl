@@ -43,6 +43,9 @@ O nas:
 <br />
 <br />
 <span style="color: gray"><i>Więcej pakietów w krótce...</i></span>
+<br />
+
+<img src="./img/page_1_thumb_large.jpg" class="resizing" />
 
 <?php
 echo file_get_contents("./bottom.html");
