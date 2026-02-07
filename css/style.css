@@ -1,8 +1,9 @@
 body {
     margin: 0;
     background-image: url(../img/DJI_0822.jpg);
-    background-size: cover;
-    background-position: center;
+    background-repeat: repeat;
+    background-size: contain;
+    background-position: top left;
 }
 
 .main {
@@ -42,11 +43,6 @@ ul {
 .reklamy img {
     width: 50%;
     height: 150px;
-}
-
-.funkcje img {
-    width: 50%;
-    max-height: 150px;
 }
 
 .resizing {
