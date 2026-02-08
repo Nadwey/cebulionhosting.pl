@@ -105,7 +105,6 @@ O nas:
 <br />
 
 <a href="./support.php"><h1>Support!</h1></a>
-<img src="./img/page_1_thumb_large.jpg" class="resizing" />
 
 <style>
     .www {

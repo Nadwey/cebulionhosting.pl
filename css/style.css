@@ -26,11 +26,6 @@ body {
     vertical-align: middle;
 }
 
-.bottom-image {
-    height: 60px;
-    max-width: 250px;
-}
-
 ul {
     display: block;
     align-items: center;
@@ -40,9 +35,21 @@ ul {
     text-align: left;
 }
 
-.reklamy img {
-    width: 50%;
-    height: 150px;
+.reklamy {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: 150px;
+    gap: 10px;
+    width: calc(100% - 80px);
+    padding: 10px 40px;
+}
+
+.reklamy > img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    box-sizing: border-box;
+    display: block;
 }
 
 .resizing {
@@ -52,7 +59,13 @@ ul {
 }
 
 @keyframes resizing {
-    0%   {transform: scaleX(1.0);}
-    50%  {transform: scaleX(0.0);}
-    100% {transform: scaleX(1.0);}
+    0% {
+        transform: scaleX(1);
+    }
+    50% {
+        transform: scaleX(0);
+    }
+    100% {
+        transform: scaleX(1);
+    }
 }

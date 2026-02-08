@@ -2,6 +2,8 @@
 echo file_get_contents("./top.html");
 ?>
 
+<img src="./img/page_1_thumb_large.jpg" class="resizing" /><br />
+
 <button id="supportButton" onclick="support()">Otrzymaj support</button>
 
 <div style="text-align: left;" id="support">
